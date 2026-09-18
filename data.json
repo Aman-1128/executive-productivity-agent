@@ -1,0 +1,116 @@
+{
+  "user": {
+    "name": "Arjun Malhotra",
+    "role": "VP Sales",
+    "email": "arjun.malhotra@veridian-corp.example"
+  },
+  "people": [
+    {
+      "name": "Neha Kapoor",
+      "role": "Marketing Lead",
+      "email": "neha.kapoor@veridian-corp.example"
+    },
+    {
+      "name": "Raghav Sethi",
+      "role": "Ops Manager",
+      "email": "raghav.sethi@veridian-corp.example"
+    },
+    {
+      "name": "Divya Rao",
+      "role": "Finance",
+      "email": "divya.rao@veridian-corp.example"
+    },
+    {
+      "name": "Priya Nair",
+      "role": "Meridian Logistics",
+      "email": "priya.nair@meridianlogistics.example"
+    }
+  ],
+  "commitments": [
+    {
+      "task": "Send updated vendor list to Raghav Sethi",
+      "deadline": "Wednesday, 23 September 2026",
+      "status": "Pending"
+    },
+    {
+      "task": "Review Q3 campaign deck from Neha Kapoor",
+      "deadline": "Thursday, 24 September 2026 at 9:30 AM",
+      "status": "Pending"
+    },
+    {
+      "task": "Reconfirm client call with Priya Nair",
+      "deadline": "Wednesday, 23 September 2026",
+      "status": "Pending"
+    },
+    {
+      "task": "Review July expense variance report from Divya Rao",
+      "deadline": "Before Thursday board preparation",
+      "status": "Completed"
+    },
+    {
+      "task": "Track ownership of Mumbai office lease renewal",
+      "deadline": "Friday, 25 September 2026",
+      "status": "Pending"
+    }
+  ],
+  "calendar": [
+    {
+      "date": "Monday, 21 September 2026",
+      "time": "9:00–9:35 AM",
+      "event": "Leadership Sync"
+    },
+    {
+      "date": "Tuesday, 22 September 2026",
+      "time": "11:00 AM–12:00 PM",
+      "event": "Internal Budget Review"
+    },
+    {
+      "date": "Wednesday, 23 September 2026",
+      "time": "3:00–3:30 PM",
+      "event": "Call — Meridian Logistics"
+    },
+    {
+      "date": "Thursday, 24 September 2026",
+      "time": "9:00–10:00 AM",
+      "event": "Board Prep Session"
+    },
+    {
+      "date": "Thursday, 24 September 2026",
+      "time": "4:00–5:00 PM",
+      "event": "Hiring Panel — Sales Associate"
+    },
+    {
+      "date": "Friday, 25 September 2026",
+      "time": "10:00–10:30 AM",
+      "event": "Facilities Check-in"
+    }
+  ],
+  "email_threads": [
+    {
+      "subject": "Vendor List",
+      "latest_update": "Raghav is waiting for the updated vendor list."
+    },
+    {
+      "subject": "Q3 Campaign Deck",
+      "latest_update": "Neha confirmed the review for Thursday at 9:30 AM."
+    },
+    {
+      "subject": "Call Reschedule",
+      "latest_update": "Meridian Logistics confirmed Wednesday at 3:00 PM."
+    },
+    {
+      "subject": "Expense Variance Report",
+      "latest_update": "Divya sent the report on Wednesday evening."
+    },
+    {
+      "subject": "Mumbai Office Lease Renewal",
+      "latest_update": "The responsible owner is still unconfirmed and the deadline is Friday, 25 September."
+    }
+  ],
+  "voice_notes": [
+    "Need to send Raghav the vendor list.",
+    "Still have not heard back about ownership of the Mumbai lease renewal.",
+    "Expense variance report from Divya is needed before board preparation.",
+    "Need to lock in the Meridian Logistics call time."
+  ]
+}
