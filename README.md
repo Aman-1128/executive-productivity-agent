@@ -1,4 +1,7 @@
 # Executive Productivity Agent
+## Dashboard Preview
+
+![Executive Productivity Agent Dashboard](dashboard-preview.png)
 
 ## Overview
 An AI-powered productivity assistant designed for executives.
